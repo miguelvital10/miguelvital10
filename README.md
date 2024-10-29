@@ -6,10 +6,10 @@ Hi 👋, I'm Miguel! A passionate Data Science student from Brazil.
 🔭 I am looking for my first job opportunity. My dream is to one day work with **AI** and **Machine Learning**.
 
 ## 👨‍💻 More about me:
-
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white)](https://www.linkedin.com/in/miguel-arthur/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white)](https://www.instagram.com/miguel.vittal/)
-[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white)](https://github.com/miguelvital10)
+
+###
 
 ---
 
