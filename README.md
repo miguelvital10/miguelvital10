@@ -27,6 +27,12 @@ Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 ###
 ## Portfolio:
 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4wZW0wN2xtN3dweWgzNjB1azRhd201YWwweTI3amx1aXhhOTA0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iG5L6qnH5SoeY/giphy.webp"/>
+</div>
+
+###
+
 ---
 
 ## 🔥 Skills:
