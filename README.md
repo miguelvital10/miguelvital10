@@ -33,8 +33,6 @@ Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 
 ###
 
----
-
 ## 🔥 Skills:
 
 ### Programming Languages
