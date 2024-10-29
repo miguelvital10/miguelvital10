@@ -3,8 +3,6 @@ Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 
 🌱 I’m currently studying **Computer Science**.
 
-🔭 I am looking for my first job opportunity. My dream is to one day work with **AI** and **Machine Learning**.
-
 ## 👨‍💻 More about me:
 <div align="left">
   <a href="https://www.instagram.com/miguel.vittal/" target="_blank">
