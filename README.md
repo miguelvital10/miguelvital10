@@ -1,13 +1,20 @@
 # Hello World
-Hi 👋, I'm Miguel! A passionate Data Science student from Brazil.
+Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 
-🌱 I’m currently studying **Data Science** and **Computer Science**.
+🌱 I’m currently studying **Computer Science**.
 
 🔭 I am looking for my first job opportunity. My dream is to one day work with **AI** and **Machine Learning**.
 
 ## 👨‍💻 More about me:
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white)](https://www.linkedin.com/in/miguel-arthur/)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white)](https://www.instagram.com/miguel.vittal/)
+<div align="left">
+  <a href="https://www.instagram.com/miguel.vittal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-arthur/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 
 ###
 
