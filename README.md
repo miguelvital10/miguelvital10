@@ -28,7 +28,7 @@ Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 ## Portfolio:
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4wZW0wN2xtN3dweWgzNjB1azRhd201YWwweTI3amx1aXhhOTA0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iG5L6qnH5SoeY/giphy.webp"/>
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG11ZGU3Z2J4a21lbnR1MTB5bGljdXV5d2J4amY4ejJwcDkxejh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMvmF1wCzXIGc/giphy.webp"/>
 </div>
 
 ###
