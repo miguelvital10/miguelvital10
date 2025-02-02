@@ -19,6 +19,7 @@ Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 ---
 
 ### 💻 GitHub Stats:
+![miguelvital10's Stats](https://github-readme-stats.vercel.app/api?username=miguelvital10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![miguelvital10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvital10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
