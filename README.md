@@ -23,13 +23,6 @@ Hi 👋, I'm Miguel! A passionate Computer Science student from Brazil.
 ![miguelvital10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvital10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
-## Portfolio:
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG11ZGU3Z2J4a21lbnR1MTB5bGljdXV5d2J4amY4ejJwcDkxejh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMvmF1wCzXIGc/giphy.webp"/>
-</div>
-
-###
 
 ## 🔥 Skills:
 
