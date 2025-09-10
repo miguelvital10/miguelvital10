@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+</div>
+
 # 👋 Hello World, I'm Miguel
 
 🎓 Computer Science student and Full-Stack Developer passionate about building solutions that bring together technology, design, and usability. Brazilian, naturally curious, and always up for new challenges!<br/><br/>
