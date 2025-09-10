@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Miguel
 
-🎓 Computer Science student and Full-Stack Developer passionate about building solutions that bring together technology, design, and usability. Brazilian, naturally curious, and always up for new challenges!<br/>
-💻 Specialist in web and mobile development, working with React, Node.js/NestJS, PHP, and microservices, with solid experience in RabbitMQ, Docker, SQL/MongoDB, and REST integrations.<br/>
+🎓 Computer Science student and Full-Stack Developer passionate about building solutions that bring together technology, design, and usability. Brazilian, naturally curious, and always up for new challenges!<br/><br/>
+💻 Specialist in web and mobile development, working with React, Node.js/NestJS, PHP, and microservices, with solid experience in RabbitMQ, Docker, SQL/MongoDB, and REST integrations.<br/><br/>
 🚀 Proven track record in developing institutional and ERP systems, code refactoring for high performance, and DevOps practices (CI/CD, Nginx, Jenkins).
 
 ## 🌎 Where to find me:
@@ -75,14 +75,14 @@
 
 ### 🎯 Professional Experience
 
-UNIDAVI (2025 – present) → Development of web applications (React/Node.js), reservation systems, and institutional publishing. <br/>
-Conectra Sistemas (2024 – 2025) → Worked on ERP systems with microservices, NestJS, Meteor, RabbitMQ, and Docker. <br/>
+UNIDAVI (2025 – present) → Development of web applications (React/Node.js), reservation systems, and institutional publishing. <br/><br/>
+Conectra Sistemas (2024 – 2025) → Worked on ERP systems with microservices, NestJS, Meteor, RabbitMQ, and Docker. <br/><br/>
 Evne Tecnologia (2023 – 2024) → Mobile development for ERP/BI with RESTful integrations and a strong focus on productivity.
 
 ### 🌐 Spoken Languages
 
-🇧🇷 Portuguese – Native <br/>
-🇺🇸 English – Advanced <br/>
-🇪🇸 Spanish – Beginner <br/>
+🇧🇷 Portuguese – Native <br/><br/>
+🇺🇸 English – Advanced <br/><br/>
+🇪🇸 Spanish – Beginner <br/><br/>
 
 ### 🌍 Open to global opportunities.
